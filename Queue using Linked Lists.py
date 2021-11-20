@@ -1,4 +1,4 @@
-class Node:.......
+class Node:
 
     def __init__(self, value):
         self.value = value
@@ -46,7 +46,3 @@ my_queue.enqueue("3")
 my_queue.dequeue()
 print(my_queue.peek())
 print(my_queue)
-
-
-
-
